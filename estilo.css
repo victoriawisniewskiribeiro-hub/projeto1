@@ -7,15 +7,29 @@ background-color: black;
     font-family: "Roboto", sans-serif;
 }
 
-. escolhidos{
+.escolhidos{
     text-align: center;
     background-color: azul;
-    
+}  
 main{
-    backgroud-color: blue;
+    background-color: blue;
     color: black 
     max-width 800px;
     margin: 0 autor;
     padding: 16px;
-
+img { 
+    height: 80px;
+}
+  .texto-post{
+    margin-left: 40px;
+     
+}
+button{
+    width:100px;
+    padding:10px;
+    border-radius:10px;
+    background-color:blue;
+    color: white
+    
+}
 }
