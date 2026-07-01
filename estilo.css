@@ -13,10 +13,11 @@ background-color: black;
 }  
 main{
     background-color: blue;
-    color: black 
-    max-width 800px;
-    margin: 0 autor;
+    color: black ;
+    max-width: 800px;
+    margin: 0 auto;
     padding: 16px;
+}
 img { 
     height: 80px;
 }
@@ -32,4 +33,4 @@ button{
     color: white
     
 }
-}
+
