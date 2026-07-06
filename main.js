@@ -7,5 +7,10 @@ botoes.forEach(function (botao){
 
    function botaoClicado(){
      console.log("botao Clicado")
+   let texto = document.querySelector("span")
+   if(curtiu == false){
+       texto.textContent++;
+       curtiu = false
    }
+  }
 })
